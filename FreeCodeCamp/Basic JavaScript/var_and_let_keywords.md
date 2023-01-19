@@ -7,3 +7,6 @@ let camper = "James";
 let camper = "David";
 
 <b> So unlike var, when you use let, a variable with the same name can only be declared once.</b>
+
+let catName = "Oliver";
+let catSound = "Meow!";
